@@ -1,6 +1,6 @@
 # App-Brewary-Capstone-Resume
 <h2>DSC Profile</h2>
-## Read me Files:
+<h3></h3>Read me Files:</h3>
 ## Download resume on your computer: Github
 ## Click on the Green Dropdown (Code) button on the right hand side, just above the Repo page
 ## Clone or download Zip file onto your computer
